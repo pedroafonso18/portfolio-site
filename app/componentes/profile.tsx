@@ -20,29 +20,29 @@ function ProfileCard() {
                 <h1 className="text-2xl font-black">Pedro Afonso</h1>
 
 
-               <h2 ClassName="whitespace-pre-line pt-5">Olá, eu me chamo Pedro Afonso, eu tenho 18 anos e sou
+               <h2 className="whitespace-pre-line pt-5">Olá, eu me chamo Pedro Afonso, eu tenho 18 anos e sou
                dev, atualmente estou sem emprego, então me chame caso necessite de algo!</h2>
 
 
-             <div id="dropdown" class="flex flex-col  space-y-5 box-decoration-slice border-4 border-double border-black mb-5">
-                   <ul class="py-2 text-sm text-gray-700 dark:text-gray-700" aria-labelledby="dropdownHoverButton">
+             <div id="dropdown" className="flex flex-col  space-y-5 box-decoration-slice border-4 border-double border-black mb-5">
+                   <ul className="py-2 text-sm text-gray-700 dark:text-gray-700" aria-labelledby="dropdownHoverButton">
                       <li>
-                          <a  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Python</a>
+                          <a  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Python</a>
                       </li>
                       <li>
-                          <a  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Php</a>
+                          <a  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Php</a>
                       </li>
                       <li>
-                           <a  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Css</a>
+                           <a  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Css</a>
                       </li>
                       <li>
-                           <a  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Html</a>
+                           <a  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Html</a>
                       </li>
                        <li>
-                           <a  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Javascript</a>
+                           <a  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Javascript</a>
                       </li>
                        <li>
-                           <a  class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Next.Js</a>
+                           <a  className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Next.Js</a>
                       </li>
                       </ul>
             </div>
