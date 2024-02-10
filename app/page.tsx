@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import ProfileCard from './componentes/profile.tsx'
+import ProfileCard from './componentes/profile'
 import Head from 'next/head'
 
 
