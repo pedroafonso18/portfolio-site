@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import Pfp from "./algumacoisa"
-import Habilities from"./habilidades"
 import Contato from "./contato"
-
 
 function ProfileCard() {
     return (
