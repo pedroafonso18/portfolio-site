@@ -18,8 +18,8 @@ function ProfileCard() {
                 <h1 className="text-2xl font-black">Pedro Afonso</h1>
 
 
-               <h2 className="whitespace-pre-line pt-5">Olá, eu me chamo Pedro Afonso, eu tenho 18 anos e sou
-               dev, atualmente estou trabalhando no projeto Atlas, então me chame caso necessite de algo!</h2>
+               <h2 className="whitespace-pre-line pt-5">Olá, eu me chamo Pedro Afonso, eu tenho 19 anos e sou
+               dev, atualmente estou bem ocupado, mas podemos conversar! Então me chame caso necessite de algo!</h2>
 
 
              <div id="dropdown" className="flex flex-col  space-y-5 box-decoration-slice border-4 border-double border-black mb-5">
